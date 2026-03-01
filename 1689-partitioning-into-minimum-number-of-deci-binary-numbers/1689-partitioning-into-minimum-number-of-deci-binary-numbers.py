@@ -1,3 +1,5 @@
 class Solution:
     def minPartitions(self, n: str) -> int:
-        return max([int(i, 10) for i in n])
+        for s in "987654321":
+            if s in n:
+                return int(s)
