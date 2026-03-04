@@ -24,6 +24,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/semihsengor12/leetCode-3000/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/semihsengor12/leetCode-3000/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/semihsengor12/leetCode-3000/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/semihsengor12/leetCode-3000/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/semihsengor12/leetCode-3000/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@
 | [0316-remove-duplicate-letters](https://github.com/semihsengor12/leetCode-3000/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/semihsengor12/leetCode-3000/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/semihsengor12/leetCode-3000/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/semihsengor12/leetCode-3000/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/semihsengor12/leetCode-3000/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -42,6 +44,7 @@
 | [0316-remove-duplicate-letters](https://github.com/semihsengor12/leetCode-3000/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/semihsengor12/leetCode-3000/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/semihsengor12/leetCode-3000/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/semihsengor12/leetCode-3000/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/semihsengor12/leetCode-3000/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
