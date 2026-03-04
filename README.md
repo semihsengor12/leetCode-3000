@@ -25,6 +25,7 @@
 | [0085-maximal-rectangle](https://github.com/semihsengor12/leetCode-3000/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/semihsengor12/leetCode-3000/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/semihsengor12/leetCode-3000/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/semihsengor12/leetCode-3000/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/semihsengor12/leetCode-3000/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@
 | [0402-remove-k-digits](https://github.com/semihsengor12/leetCode-3000/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/semihsengor12/leetCode-3000/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/semihsengor12/leetCode-3000/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/semihsengor12/leetCode-3000/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/semihsengor12/leetCode-3000/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -45,6 +47,7 @@
 | [0402-remove-k-digits](https://github.com/semihsengor12/leetCode-3000/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/semihsengor12/leetCode-3000/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/semihsengor12/leetCode-3000/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/semihsengor12/leetCode-3000/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/semihsengor12/leetCode-3000/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -60,9 +63,18 @@
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/semihsengor12/leetCode-3000/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/semihsengor12/leetCode-3000/tree/main/0402-remove-k-digits/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/semihsengor12/leetCode-3000/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/semihsengor12/leetCode-3000/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/semihsengor12/leetCode-3000/tree/main/0496-next-greater-element-i/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/semihsengor12/leetCode-3000/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/semihsengor12/leetCode-3000/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 <!---LeetCode Topics End-->
