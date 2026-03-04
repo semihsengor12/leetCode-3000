@@ -22,6 +22,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/semihsengor12/leetCode-3000/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/semihsengor12/leetCode-3000/tree/main/0085-maximal-rectangle/) | Hard |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/semihsengor12/leetCode-3000/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/semihsengor12/leetCode-3000/tree/main/0085-maximal-rectangle/) | Hard |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/semihsengor12/leetCode-3000/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
