@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/semihsengor12/leetCode-3000/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/semihsengor12/leetCode-3000/tree/main/0085-maximal-rectangle/) | Hard |
+| [0238-product-of-array-except-self](https://github.com/semihsengor12/leetCode-3000/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0496-next-greater-element-i](https://github.com/semihsengor12/leetCode-3000/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/semihsengor12/leetCode-3000/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/semihsengor12/leetCode-3000/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
@@ -78,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/semihsengor12/leetCode-3000/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/semihsengor12/leetCode-3000/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
