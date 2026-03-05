@@ -28,6 +28,7 @@
 | [0303-range-sum-query-immutable](https://github.com/semihsengor12/leetCode-3000/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0496-next-greater-element-i](https://github.com/semihsengor12/leetCode-3000/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/semihsengor12/leetCode-3000/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/semihsengor12/leetCode-3000/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/semihsengor12/leetCode-3000/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/semihsengor12/leetCode-3000/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Stack
@@ -72,6 +73,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/semihsengor12/leetCode-3000/tree/main/0496-next-greater-element-i/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/semihsengor12/leetCode-3000/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,8 +87,13 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/semihsengor12/leetCode-3000/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/semihsengor12/leetCode-3000/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/semihsengor12/leetCode-3000/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/semihsengor12/leetCode-3000/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/semihsengor12/leetCode-3000/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
