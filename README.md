@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/semihsengor12/leetCode-3000/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/semihsengor12/leetCode-3000/tree/main/0085-maximal-rectangle/) | Hard |
+| [0169-majority-element](https://github.com/semihsengor12/leetCode-3000/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/semihsengor12/leetCode-3000/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/semihsengor12/leetCode-3000/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0496-next-greater-element-i](https://github.com/semihsengor12/leetCode-3000/tree/main/0496-next-greater-element-i/) | Easy |
@@ -73,6 +74,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/semihsengor12/leetCode-3000/tree/main/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/semihsengor12/leetCode-3000/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/semihsengor12/leetCode-3000/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Two Pointers
@@ -82,6 +84,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/semihsengor12/leetCode-3000/tree/main/0169-majority-element/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/semihsengor12/leetCode-3000/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -97,4 +100,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/semihsengor12/leetCode-3000/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/semihsengor12/leetCode-3000/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/semihsengor12/leetCode-3000/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
