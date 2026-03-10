@@ -64,6 +64,7 @@
 | [0085-maximal-rectangle](https://github.com/semihsengor12/leetCode-3000/tree/main/0085-maximal-rectangle/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/semihsengor12/leetCode-3000/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/semihsengor12/leetCode-3000/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/semihsengor12/leetCode-3000/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@
 | [0303-range-sum-query-immutable](https://github.com/semihsengor12/leetCode-3000/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/semihsengor12/leetCode-3000/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/semihsengor12/leetCode-3000/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/semihsengor12/leetCode-3000/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
