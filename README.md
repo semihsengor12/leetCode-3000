@@ -36,6 +36,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/semihsengor12/leetCode-3000/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/semihsengor12/leetCode-3000/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/semihsengor12/leetCode-3000/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/semihsengor12/leetCode-3000/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@
 | [0402-remove-k-digits](https://github.com/semihsengor12/leetCode-3000/tree/main/0402-remove-k-digits/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/semihsengor12/leetCode-3000/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/semihsengor12/leetCode-3000/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/semihsengor12/leetCode-3000/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/semihsengor12/leetCode-3000/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -110,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/semihsengor12/leetCode-3000/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/semihsengor12/leetCode-3000/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +136,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/semihsengor12/leetCode-3000/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/semihsengor12/leetCode-3000/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -146,4 +150,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/semihsengor12/leetCode-3000/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/semihsengor12/leetCode-3000/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 <!---LeetCode Topics End-->
