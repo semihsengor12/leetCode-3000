@@ -109,10 +109,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/semihsengor12/leetCode-3000/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1622-fancy-sequence](https://github.com/semihsengor12/leetCode-3000/tree/main/1622-fancy-sequence/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/semihsengor12/leetCode-3000/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1622-fancy-sequence](https://github.com/semihsengor12/leetCode-3000/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/semihsengor12/leetCode-3000/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -156,4 +158,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/semihsengor12/leetCode-3000/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/semihsengor12/leetCode-3000/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
